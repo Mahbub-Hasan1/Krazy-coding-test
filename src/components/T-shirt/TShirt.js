@@ -12,7 +12,7 @@ const TShirt = () => {
         <div>
             <img style={{ width: '30%' }} src="https://pngimg.com/uploads/tshirt/tshirt_PNG5429.png" alt="T-Shirt" />
             <Draggable>
-                <h5>{text}</h5>
+                <h1>{text}</h1>
             </Draggable>
             <div>
                 <Draggable>
